@@ -304,7 +304,7 @@ class Part:
             use of pre-parsed parts that are not
             in [Cache]. However, you can use
             rebuild_part, or for a work around, use
-            change_part andparse with the rebuilded
+            change_part and parse with the rebuilded
             part output which will add the parsed
             output to [Cache], and can be used over
             again with this function using [Cache]. 
